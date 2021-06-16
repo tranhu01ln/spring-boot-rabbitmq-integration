@@ -8,7 +8,7 @@
 		<version>2.4.0</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.danielmichalski</groupId>
+	<groupId>com.vadymdev716</groupId>
 	<artifactId>rabbitmq-receiver</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>RabbitMQ Receiver</name>

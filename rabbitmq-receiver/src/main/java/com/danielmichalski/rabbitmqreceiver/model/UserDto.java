@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqreceiver.model;
+package com.vadymdev716.rabbitmqreceiver.model;
 
 import java.io.Serializable;
 

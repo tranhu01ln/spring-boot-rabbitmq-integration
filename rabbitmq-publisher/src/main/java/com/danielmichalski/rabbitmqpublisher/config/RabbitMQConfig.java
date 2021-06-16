@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqpublisher.config;
+package com.vadymdev716.rabbitmqpublisher.config;
 
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;

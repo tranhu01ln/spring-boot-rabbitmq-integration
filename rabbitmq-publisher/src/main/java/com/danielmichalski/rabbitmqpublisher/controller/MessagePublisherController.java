@@ -1,6 +1,6 @@
-package com.danielmichalski.rabbitmqpublisher.controller;
+package com.vadymdev716.rabbitmqpublisher.controller;
 
-import com.danielmichalski.rabbitmqpublisher.model.UserDto;
+import com.vadymdev716.rabbitmqpublisher.model.UserDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

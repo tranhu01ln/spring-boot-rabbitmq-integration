@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqreceiver;
+package com.vadymdev716.rabbitmqreceiver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

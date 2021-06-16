@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqpublisher;
+package com.vadymdev716.rabbitmqpublisher;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

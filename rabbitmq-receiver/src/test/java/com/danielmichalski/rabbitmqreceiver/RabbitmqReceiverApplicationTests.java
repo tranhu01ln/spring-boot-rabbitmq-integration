@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqreceiver;
+package com.vadymdev716.rabbitmqreceiver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

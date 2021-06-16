@@ -1,6 +1,6 @@
-package com.danielmichalski.rabbitmqreceiver.listener;
+package com.vadymdev716.rabbitmqreceiver.listener;
 
-import com.danielmichalski.rabbitmqreceiver.model.UserDto;
+import com.vadymdev716.rabbitmqreceiver.model.UserDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

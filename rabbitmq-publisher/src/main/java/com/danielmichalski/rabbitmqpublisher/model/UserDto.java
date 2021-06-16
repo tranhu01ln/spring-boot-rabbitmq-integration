@@ -1,4 +1,4 @@
-package com.danielmichalski.rabbitmqpublisher.model;
+package com.vadymdev716.rabbitmqpublisher.model;
 
 import java.io.Serializable;
 
